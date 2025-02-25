@@ -3,7 +3,7 @@
 This is intended to be used as a library for **devkitPro** games. It uses Makefile to compile and may be kind of a mess in the source directories, I'll clean that up... eventually.
 There is a __lot__ of content here! (when this is done) so use it! Please! Or I will ***Tingly***
 
-Contains: (All WIP at this time)
+## Contains: (All WIP at this time)
 
 - NW4R (nintendo ware for revolution) 
 This is a 2D and 3D library that lets you render and move objects with file formats like brres models, brlyt layout information. This is the one you'll
@@ -19,3 +19,4 @@ I will make no attempt to decompile MSL_C as it's with CodeWarrior. (CW for MPC5
 
 3rd party credits:
 some symbols i used to start with from nsmbw decomp people
+all of the code i decompiled is from New Super Mario Bros Wii PAL revision 1
