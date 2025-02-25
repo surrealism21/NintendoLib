@@ -25,4 +25,5 @@ all of the code i decompiled is from New Super Mario Bros Wii PAL revision 1
 
 # Current plans
 -Decompile `nw4r::math`
+
 -Deocompile `ARC`. This would allow use of arc files in homebrew, that's cool
