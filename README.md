@@ -1,4 +1,4 @@
-# NintendoJunkForRevolution - nintendo's shit ass libraries
+# NintendoLib - nintendo's shit ass libraries
 
 This is intended to be used as a library for **devkitPro** games. It uses Makefile to compile and may be kind of a mess in the source directories, I'll clean that up... eventually.
 There is a __lot__ of content here! (when this is done) so use it! Please! Or I will ***Tingly***
