@@ -22,3 +22,7 @@ I will make no attempt to decompile MSL_C as it's with CodeWarrior. (CW for MPC5
 3rd party credits:
 some symbols i used to start with from nsmbw decomp people
 all of the code i decompiled is from New Super Mario Bros Wii PAL revision 1
+
+# Current plans
+-Decompile `nw4r::math`
+-Deocompile `ARC`. This would allow use of arc files in homebrew, that's cool
